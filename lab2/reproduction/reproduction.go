@@ -1,9 +1,9 @@
 package reproduction
 
 import (
-	"github.com/pityara/labs/ga/lab2/mathFn"
-	"github.com/pityara/labs/ga/lab2/population"
-	"github.com/pityara/labs/ga/lab2/roulette"
+	"github.com/Tcheburatz0/ga/lab2/mathFn"
+	"github.com/Tcheburatz0/ga/lab2/population"
+	"github.com/Tcheburatz0/ga/lab2/roulette"
 )
 
 /* Функция репродукции */
