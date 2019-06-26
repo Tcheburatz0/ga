@@ -3,7 +3,7 @@ package mathFn
 import (
 	"math"
 
-	"github.com/pityara/labs/ga/lab2/population"
+	"github.com/Tcheburatz0/ga/lab2/population"
 )
 
 type Solution struct {
