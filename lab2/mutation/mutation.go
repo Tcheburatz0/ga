@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/pityara/labs/ga/lab2/population"
+	"github.com/Tcheburatz0/ga/lab2/population"
 )
 
 func MakeMutation(population []population.Person, restrictions []float64) []population.Person {
