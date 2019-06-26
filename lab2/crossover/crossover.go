@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/pityara/labs/ga/lab2/population"
+	"github.com/Tcheburatz0/ga/lab2/population"
 )
 
 func MakeCrossover(popul []population.Person) []population.Person {
