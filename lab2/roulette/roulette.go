@@ -4,7 +4,7 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/pityara/labs/ga/lab2/mathFn"
+	"github.com/Tcheburatz0/ga/lab2/mathFn"
 )
 
 type Sector struct {
